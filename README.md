@@ -1,9 +1,9 @@
-#CLI погоды
+# CLI погоды
 
 ![electrical_circuit](src/image.png "weather-CLI")
 
 ---
-###HELP   
+### HELP   
 Без параметров - вывод погоды    
 -s [CITY] для установки города    
 -h для вывода помощи    
